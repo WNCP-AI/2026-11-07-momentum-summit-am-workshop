@@ -1,0 +1,26 @@
+# Personal and sensitive data. The READMEs stay so the folders survive a clone or download.
+0_System/memory/*
+!0_System/memory/README.md
+0_User/*
+!0_User/README.md
+3_Library/*
+!3_Library/README.md
+Z_Personal/*
+!Z_Personal/README.md
+
+# Contact data, drafts, and news that names contacts
+2_Research/News/
+
+# Harness folders, never committed
+.claude/
+
+# Secrets
+.env
+.env.*
+
+# Local clutter
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.log

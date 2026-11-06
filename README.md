@@ -25,13 +25,13 @@ Paste this into your agent:
 
 ```
 You are my AI chief of staff. Get the agentic OS from
-https://github.com/WNCP-AI/agentic-os into your workspace.
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop into your workspace.
 Read AGENTS.md in that folder first, and treat it as authoritative.
 Then run the onboarding skill.
 ```
 
 That repository is the OS. The workshop example, with paste prompts and a finished run, is
-https://github.com/WNCP-AI/agentic-os-example.
+https://github.com/WNCP-AI/2026-11-07-momentum-summit-am-workshop-example.
 
 The folder can live anywhere the agent can read and write: your computer, the agent's computer, Google Drive, or any
 file store. Nothing syncs.

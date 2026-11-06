@@ -57,7 +57,7 @@ Say: "Phase 0, Check the setup: I'm checking that this works on your agent."
 
    The new chat starts at "Where to start" above. If it can't find the file, files don't last on this agent: go to 5.
 5. If any check fails and you can't fix it: stop. Say what failed in plain words. Tell the user to pair up with
-   someone who has set this up before, or to use the demo repo. Don't go on to Memory.
+   someone who has set this up before, or to open https://github.com/WNCP-AI/agentic-os-example. Don't go on to Memory.
 
 Writes: `0_System/memory/setup-check.md`. Memory deletes it once that step is done.
 
